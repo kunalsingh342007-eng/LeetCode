@@ -91,8 +91,10 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
