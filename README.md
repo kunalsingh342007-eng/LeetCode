@@ -94,6 +94,7 @@ This repository is licensed under the MIT License.
 | [0027-remove-element](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -115,4 +117,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
