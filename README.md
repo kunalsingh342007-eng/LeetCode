@@ -103,6 +103,7 @@ This repository is licensed under the MIT License.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
