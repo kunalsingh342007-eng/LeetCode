@@ -114,6 +114,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0058-length-of-last-word) |
 ## Sorting
 |  |
 | ------- |
