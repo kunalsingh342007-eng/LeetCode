@@ -98,6 +98,7 @@ This repository is licensed under the MIT License.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0027-remove-element) |
 ## Math
@@ -123,4 +124,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
