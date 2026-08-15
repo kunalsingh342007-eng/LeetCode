@@ -101,6 +101,7 @@ This repository is licensed under the MIT License.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
