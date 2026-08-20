@@ -100,6 +100,7 @@ This repository is licensed under the MIT License.
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,4 +156,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
