@@ -101,6 +101,7 @@ This repository is licensed under the MIT License.
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -154,6 +155,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
