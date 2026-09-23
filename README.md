@@ -118,6 +118,7 @@ This repository is licensed under the MIT License.
 | [0027-remove-element](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -145,6 +146,7 @@ This repository is licensed under the MIT License.
 | [0058-length-of-last-word](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
