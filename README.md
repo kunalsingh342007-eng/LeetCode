@@ -98,6 +98,7 @@ This repository is licensed under the MIT License.
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0525-contiguous-array) |
@@ -215,4 +216,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
