@@ -127,6 +127,7 @@ This repository is licensed under the MIT License.
 | [0007-reverse-integer](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -220,4 +221,9 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
