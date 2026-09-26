@@ -108,6 +108,7 @@ This repository is licensed under the MIT License.
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1313-decompress-run-length-encoded-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -203,6 +204,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0258-add-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
