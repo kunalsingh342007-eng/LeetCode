@@ -107,6 +107,7 @@ This repository is licensed under the MIT License.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1470-shuffle-the-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1470-shuffle-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
