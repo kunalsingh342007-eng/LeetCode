@@ -107,6 +107,7 @@ This repository is licensed under the MIT License.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -131,6 +132,7 @@ This repository is licensed under the MIT License.
 | [0541-reverse-string-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -173,6 +175,7 @@ This repository is licensed under the MIT License.
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Union-Find
