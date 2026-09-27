@@ -108,6 +108,7 @@ This repository is licensed under the MIT License.
 | [0643-maximum-average-subarray-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0896-monotonic-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
