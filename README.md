@@ -153,6 +153,7 @@ This repository is licensed under the MIT License.
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
@@ -176,6 +177,7 @@ This repository is licensed under the MIT License.
 | [0125-valid-palindrome](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -231,6 +233,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
