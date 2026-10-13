@@ -210,6 +210,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0147-insertion-sort-list) |
@@ -278,6 +279,7 @@ This repository is licensed under the MIT License.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
 ## Counting Sort
 |  |
