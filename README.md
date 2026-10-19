@@ -90,6 +90,7 @@ This repository is licensed under the MIT License.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -180,6 +181,7 @@ This repository is licensed under the MIT License.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0125-valid-palindrome) |
@@ -301,4 +303,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0707-design-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
