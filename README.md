@@ -215,6 +215,7 @@ This repository is licensed under the MIT License.
 | [0142-linked-list-cycle-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0707-design-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0707-design-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,4 +291,8 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
