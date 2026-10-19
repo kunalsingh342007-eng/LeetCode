@@ -3,8 +3,8 @@ public:
     int lengthOfLastWord(string s) {
         unordered_map<int,int>wordlength;
      int i=0;
-     int index=0;
      int n=s.size();
+     int lastwordlen=0;
     while(i<n){
         while(i<n && s[i]==' '){
             i++;
@@ -16,9 +16,9 @@ public:
             len++;
             i++;
         }
-        wordlength[index++]=len;
+        lastwordlen=len;
     }
-      return wordlength.empty() ? 0 : wordlength[index - 1];
+      return lastwordlen;
      
     }
 };
