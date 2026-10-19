@@ -142,6 +142,7 @@ This repository is licensed under the MIT License.
 | [0344-reverse-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -187,6 +188,7 @@ This repository is licensed under the MIT License.
 | [0125-valid-palindrome](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -307,4 +309,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
