@@ -162,6 +162,7 @@ This repository is licensed under the MIT License.
 | [0367-valid-perfect-square](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0136-single-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
