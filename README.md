@@ -293,6 +293,7 @@ This repository is licensed under the MIT License.
 | [0136-single-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -320,6 +321,7 @@ This repository is licensed under the MIT License.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0509-fibonacci-number) |
 ## Prime Factorization
