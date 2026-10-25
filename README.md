@@ -116,6 +116,7 @@ This repository is licensed under the MIT License.
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1313-decompress-run-length-encoded-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -218,6 +219,7 @@ This repository is licensed under the MIT License.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Union-Find
@@ -311,6 +313,7 @@ This repository is licensed under the MIT License.
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -348,4 +351,8 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0682-baseball-game](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
