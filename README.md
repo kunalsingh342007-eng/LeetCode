@@ -185,6 +185,7 @@ This repository is licensed under the MIT License.
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -207,6 +208,7 @@ This repository is licensed under the MIT License.
 | [0657-robot-return-to-origin](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1108-defanging-an-ip-address) |
