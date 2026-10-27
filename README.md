@@ -154,6 +154,7 @@ This repository is licensed under the MIT License.
 | [0876-middle-of-the-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -211,6 +212,7 @@ This repository is licensed under the MIT License.
 | [0709-to-lower-case](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1678-goal-parser-interpretation) |
