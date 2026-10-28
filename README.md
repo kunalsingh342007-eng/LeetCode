@@ -168,6 +168,7 @@ This repository is licensed under the MIT License.
 | [0258-add-digits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0509-fibonacci-number) |
@@ -316,6 +317,7 @@ This repository is licensed under the MIT License.
 | [0191-number-of-1-bits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -323,6 +325,7 @@ This repository is licensed under the MIT License.
 | [0021-merge-two-sorted-lists](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
