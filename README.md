@@ -167,6 +167,7 @@ This repository is licensed under the MIT License.
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0509-fibonacci-number) |
@@ -321,6 +322,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
