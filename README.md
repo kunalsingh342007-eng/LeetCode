@@ -145,6 +145,7 @@ This repository is licensed under the MIT License.
 | [0141-linked-list-cycle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -164,6 +165,7 @@ This repository is licensed under the MIT License.
 | [0007-reverse-integer](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0263-ugly-number) |
@@ -183,6 +185,7 @@ This repository is licensed under the MIT License.
 | [0141-linked-list-cycle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -339,6 +342,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
