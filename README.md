@@ -129,6 +129,7 @@ This repository is licensed under the MIT License.
 | [1480-running-sum-of-1d-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
@@ -177,6 +178,7 @@ This repository is licensed under the MIT License.
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,6 +240,7 @@ This repository is licensed under the MIT License.
 | [1051-height-checker](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
 ## Union-Find
 |  |
 | ------- |
@@ -382,4 +385,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
