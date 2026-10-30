@@ -133,6 +133,7 @@ This repository is licensed under the MIT License.
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3467-transform-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +247,7 @@ This repository is licensed under the MIT License.
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
+| [3467-transform-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Union-Find
 |  |
 | ------- |
@@ -348,6 +350,7 @@ This repository is licensed under the MIT License.
 | [1051-height-checker](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [3467-transform-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
