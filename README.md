@@ -104,6 +104,7 @@ This repository is licensed under the MIT License.
 | [0219-contains-duplicate-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0525-contiguous-array) |
@@ -239,6 +240,7 @@ This repository is licensed under the MIT License.
 | [0147-insertion-sort-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
