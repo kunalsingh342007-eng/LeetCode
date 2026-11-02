@@ -98,6 +98,7 @@ This repository is licensed under the MIT License.
 | [0035-search-insert-position](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0136-single-number) |
@@ -331,6 +332,7 @@ This repository is licensed under the MIT License.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
@@ -408,4 +410,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1037-valid-boomerang) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
