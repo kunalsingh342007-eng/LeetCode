@@ -119,6 +119,7 @@ This repository is licensed under the MIT License.
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1037-valid-boomerang](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1313-decompress-run-length-encoded-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -179,6 +180,7 @@ This repository is licensed under the MIT License.
 | [0415-add-strings](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1037-valid-boomerang](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
@@ -402,4 +404,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
