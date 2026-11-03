@@ -179,6 +179,7 @@ This repository is licensed under the MIT License.
 | [0342-power-of-four](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1037-valid-boomerang](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1037-valid-boomerang) |
@@ -278,6 +279,7 @@ This repository is licensed under the MIT License.
 | [0349-intersection-of-two-arrays](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
