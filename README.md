@@ -133,6 +133,7 @@ This repository is licensed under the MIT License.
 | [1480-running-sum-of-1d-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -165,6 +166,7 @@ This repository is licensed under the MIT License.
 | [0977-squares-of-a-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
@@ -305,6 +307,7 @@ This repository is licensed under the MIT License.
 | [0682-baseball-game](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
