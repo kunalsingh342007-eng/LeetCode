@@ -185,6 +185,7 @@ This repository is licensed under the MIT License.
 | [0441-arranging-coins](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1037-valid-boomerang](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1492-the-kth-factor-of-n) |
