@@ -133,6 +133,7 @@ This repository is licensed under the MIT License.
 | [1470-shuffle-the-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
@@ -428,4 +429,5 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0048-rotate-image) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
