@@ -96,6 +96,7 @@ This repository is licensed under the MIT License.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0078-subsets) |
@@ -171,6 +172,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -422,4 +424,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
