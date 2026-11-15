@@ -118,6 +118,7 @@ This repository is licensed under the MIT License.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0888-fair-candy-swap](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -212,6 +213,7 @@ This repository is licensed under the MIT License.
 | [0560-subarray-sum-equals-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0888-fair-candy-swap](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -258,6 +260,7 @@ This repository is licensed under the MIT License.
 | [0414-third-maximum-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1051-height-checker) |
@@ -293,6 +296,7 @@ This repository is licensed under the MIT License.
 | [0441-arranging-coins](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
