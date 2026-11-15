@@ -99,6 +99,7 @@ This repository is licensed under the MIT License.
 | [0048-rotate-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -289,6 +290,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0035-search-insert-position](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -436,5 +438,6 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
