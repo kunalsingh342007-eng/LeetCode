@@ -140,6 +140,7 @@ This repository is licensed under the MIT License.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -196,6 +197,7 @@ This repository is licensed under the MIT License.
 | [1037-valid-boomerang](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
