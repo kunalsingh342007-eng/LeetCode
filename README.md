@@ -248,6 +248,7 @@ This repository is licensed under the MIT License.
 | [1108-defanging-an-ip-address](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -325,6 +326,7 @@ This repository is licensed under the MIT License.
 | [1389-create-target-array-in-the-given-order](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
