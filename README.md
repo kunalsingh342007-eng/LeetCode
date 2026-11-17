@@ -136,6 +136,7 @@ This repository is licensed under the MIT License.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1748-sum-of-unique-elements](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -336,6 +337,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Interactive
 |  |
 | ------- |
