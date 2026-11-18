@@ -161,6 +161,7 @@ This repository is licensed under the MIT License.
 | [0142-linked-list-cycle-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -288,6 +289,7 @@ This repository is licensed under the MIT License.
 | [0142-linked-list-cycle-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -373,6 +375,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0509-fibonacci-number) |
@@ -421,6 +424,7 @@ This repository is licensed under the MIT License.
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bubble Sort
