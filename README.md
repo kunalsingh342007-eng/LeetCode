@@ -121,6 +121,7 @@ This repository is licensed under the MIT License.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -331,6 +332,7 @@ This repository is licensed under the MIT License.
 | [0657-robot-return-to-origin](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -458,5 +460,6 @@ This repository is licensed under the MIT License.
 | [0074-search-a-2d-matrix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0867-transpose-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
