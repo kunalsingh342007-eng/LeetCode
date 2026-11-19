@@ -120,6 +120,7 @@ This repository is licensed under the MIT License.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0832-flipping-an-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0832-flipping-an-image) |
 | [0888-fair-candy-swap](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -168,6 +169,7 @@ This repository is licensed under the MIT License.
 | [0392-is-subsequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -328,6 +330,7 @@ This repository is licensed under the MIT License.
 | [0415-add-strings](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -369,6 +372,7 @@ This repository is licensed under the MIT License.
 | [0338-counting-bits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -453,5 +457,6 @@ This repository is licensed under the MIT License.
 | [0048-rotate-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0832-flipping-an-image) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
