@@ -208,6 +208,7 @@ This repository is licensed under the MIT License.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -232,6 +233,7 @@ This repository is licensed under the MIT License.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
@@ -344,6 +346,7 @@ This repository is licensed under the MIT License.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1652-defuse-the-bomb) |
