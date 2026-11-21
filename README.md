@@ -184,6 +184,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0002-add-two-numbers](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0069-sqrtx) |
@@ -209,6 +210,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -235,6 +237,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0058-length-of-last-word) |
