@@ -121,6 +121,7 @@ This repository is licensed under the MIT License.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0896-monotonic-array) |
@@ -367,6 +368,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0561-array-partition](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0860-lemonade-change) |
 ## Number Theory
 |  |
 | ------- |
