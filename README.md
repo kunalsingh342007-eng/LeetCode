@@ -481,4 +481,20 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
