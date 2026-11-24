@@ -149,6 +149,7 @@ This repository is licensed under the MIT License.
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3467-transform-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -209,6 +210,7 @@ This repository is licensed under the MIT License.
 | [1492-the-kth-factor-of-n](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -357,6 +359,7 @@ This repository is licensed under the MIT License.
 | [0219-contains-duplicate-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Interactive
 |  |
 | ------- |
@@ -378,6 +381,7 @@ This repository is licensed under the MIT License.
 | ------- |
 | [0258-add-digits](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -497,4 +501,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0112-path-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
