@@ -151,6 +151,7 @@ This repository is licensed under the MIT License.
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3467-transform-array-by-parity](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +212,7 @@ This repository is licensed under the MIT License.
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3024-type-of-triangle) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
