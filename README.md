@@ -90,6 +90,7 @@ This repository is licensed under the MIT License.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0018-4sum) |
@@ -155,6 +156,7 @@ This repository is licensed under the MIT License.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -374,6 +376,7 @@ This repository is licensed under the MIT License.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0680-valid-palindrome-ii) |
