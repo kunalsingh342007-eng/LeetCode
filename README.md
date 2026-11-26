@@ -455,6 +455,7 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bubble Sort
@@ -494,10 +495,12 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0112-path-sum) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0112-path-sum) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
