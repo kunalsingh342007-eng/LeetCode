@@ -513,4 +513,8 @@ This repository is licensed under the MIT License.
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kunalsingh342007-eng/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
